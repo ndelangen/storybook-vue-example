@@ -7,7 +7,7 @@ Based on https://github.com/hchstera/vue-charts
 ## Used:
 - Webpack 2.5.1
 - Vue 2.4.1
-- Storybook 3.2.0 (alpha)
+- Storybook 3.2.0
 
 > We hope this helps you get your project started!
 > 
