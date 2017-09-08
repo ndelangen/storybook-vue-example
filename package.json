@@ -13,18 +13,18 @@
     "url": "git+https://github.com/ndelangen/storybook-vue-example.git"
   },
   "dependencies": {
-    "chart.js": "^2.3.0",
-    "vue": "^2.4.1"
+    "chart.js": "^2.6.0",
+    "vue": "^2.4.2"
   },
   "devDependencies": {
-    "@storybook/addon-actions": "^3.2.0",
-    "@storybook/addon-knobs": "^3.2.5",
-    "@storybook/addon-links": "^3.2.0",
-    "@storybook/addon-notes": "^3.2.0",
-    "@storybook/cli": "^3.2.5",
-    "@storybook/vue": "^3.2.5",
+    "@storybook/addon-actions": "^3.3.0-alpha.0",
+    "@storybook/addon-knobs": "^3.3.0-alpha.0",
+    "@storybook/addon-links": "^3.3.0-alpha.0",
+    "@storybook/addon-notes": "^3.3.0-alpha.0",
+    "@storybook/cli": "^3.3.0-alpha.0",
+    "@storybook/vue": "^3.3.0-alpha.0",
     "vue-loader": "^13.0.4",
-    "webpack": "^3.5.5"
+    "webpack": "^3.5.6"
   },
   "keywords": [
     "vue",
